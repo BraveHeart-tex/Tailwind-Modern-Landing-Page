@@ -1,6 +1,6 @@
 # Tailwind-Modern-Landing-Page
 A Modern Landing Page from Front End Mentor, made with Tailwind CSS
-Feel free to check out the live demo on Netlify [Clipboard Landing Page](https://bora-clipboard.netlify.app/).
+Feel free to check out the live demo on Netlify : [Clipboard Landing Page](https://bora-clipboard.netlify.app/).
 
 # Get Started With Tailwind CSS
 
@@ -33,3 +33,5 @@ Run the CLI tool to scan your template files for classes and build your CSS.
 Add your compiled CSS file to the `<head>` and start using Tailwind’s utility classes to style your content.
 
 ![](https://prnt.sc/26ko7wg.jpg)
+
+# For more information about Tailwind CSS please visit : [TailwindCSS Docs](https://tailwindcss.com/docs/installation)
